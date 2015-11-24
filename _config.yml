@@ -1,6 +1,9 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
