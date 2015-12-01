@@ -10,7 +10,7 @@ Uno de mis principales temas de interés es la Ingeniería de Software. Hace ya 
 
 ### La ineficiencia
 
-Para resumir un poco, en dicho artículo mencionaba sobre la injerencia del sector académico en la Ingeniería de Software y lo contra producente que esto a resultado. La Ingeniería de Software es una ingeniería que se "cuese" a parte de las demás ingenierías como la mecánica o civil. En las Ciencias Computacionales el sector académico tiene un prominente trabajo de investigación, pero en la Ingeniería de Software no se pueden crear ó inventar metodologías o modelos de desarrollo de software detrás de un escritorio, suponiendo que con diagramas de Gannt podemos controlar a un equipo de desarrollo.
+Para resumir un poco, en dicho artículo mencionaba sobre la injerencia del sector académico en la Ingeniería de Software y lo contraproducente que esto a resultado. La Ingeniería de Software es una ingeniería que se "cuese" a parte de las demás ingenierías como la mecánica o civil. En las Ciencias Computacionales el sector académico tiene un prominente trabajo de investigación, pero en la Ingeniería de Software no se pueden crear ó inventar metodologías o modelos de desarrollo de software detrás de un escritorio, suponiendo que con diagramas de Gannt podemos controlar a un equipo de desarrollo.
 
 En mi experiencia he comprobado lo ineficientes y problemáticas que resultan en más del 90% de proyectos el uso de metodologías formales. Lo preocupante de todo esto es su enseñanza en las instituciones educativas.
 
