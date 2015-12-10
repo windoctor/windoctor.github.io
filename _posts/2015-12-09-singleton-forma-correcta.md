@@ -67,3 +67,17 @@ Finalmente la mejor solución es crear la instancia "inline", es decir, en la mi
 De esta forma la instancia se creará en el momento en el que la JVM cargue la clase, que es incluso antes que esté disponible para cualquier hilo.
 
 Pueden ver un ejemplo completo de su implementación [aquí](https://github.com/iluwatar/java-design-patterns/blob/master/singleton/src/main/java/com/iluwatar/singleton/IvoryTower.java)
+
+Finalmente en el libro [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) se menciona que la forma más limpia y sencilla de crear un singleton en Java solo a partir de la versión 5 es mediante enums.
+
+{% highlight java %}
+    public enum MiSingleton {
+        INSTANCE;
+
+        public void miMetodo() { aqui nuestro codigo }
+    }
+    
+    //La forma de llamarlo sería
+    MiSingleton.INSTANCE.miMetodo();
+{% endhighlight %}
+
