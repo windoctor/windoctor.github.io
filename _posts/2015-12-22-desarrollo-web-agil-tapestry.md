@@ -30,18 +30,15 @@ Lo único que tenemos que hacer es tener Maven y abrir nuestra consola en el dir
 
 Al ejecutar el comando anterior, en la consola tendremos una salida con la lista de posibles arquetipos. Buscaremos el que diga Tapestry QuickStart. La salida que yo tengo es la siguiente:
 
-{% highlight maven %}
     Choose archetype:
     1: http://tapestry.apache.org -> org.apache.tapestry:quickstart (Tapestry 5 Quickstart Project)
     2: http://tapestry.apache.org -> org.apache.tapestry:tapestry-archetype (Tapestry 4.1.6 Archetype)
     Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains): : ___aqui teclear el 1____
-{% endhighlight %}
 
 Al momento de escribir este tutorial es la opción 1 la que nos permitirá crear un proyecto con la versión 5 de Tapestry. 
 
 Después nos preguntará que versión en específico de tapestry que queremos usar para crear el proyecto, en mi caso elegí la última versión al momento de escribir este tutorial que es la versión 5.4.0
 
-{% highlight maven %}
     Choose org.apache.tapestry:quickstart version: 
     1: 5.0.19
     2: 5.1.0.5
@@ -49,7 +46,6 @@ Después nos preguntará que versión en específico de tapestry que queremos us
     4: 5.3.7
     5: 5.4.0
     Choose a number: 5: ___TECLEAR 5____
-{% endhighlight %}
 
 
 Este QuickStart se encuentra descrito en el siguiente [link](http://tapestry.apache.org/getting-started.html) que te recomiendo leer en caso que tengas algún problema hasta el momento.
