@@ -49,11 +49,14 @@ La caja de texto y el último botón deben modificar su propiedad "Visible" en e
 
 Nos debe quedar algo como esto:
 
+![Design](https://raw.githubusercontent.com/windoctor/windoctor.github.io/master/static/img/design_twitter_appinventor.png)
 
 Finalmente, en la esquina superior derecha tenemos la opción de cambiar nuestra vista "Designer" a "Blocks"
 
-
 Podemos ver que tenemos 4 segmentos de bloques, en el primero definimos unas variables y sus valores. Para ello utilizamos el apartado "Variables" y "Text" para construir los bloques del primer segmento que vemos en naranja y guinda.
+
+![Block](https://raw.githubusercontent.com/windoctor/windoctor.github.io/master/static/img/block_diagrams_twitter.png)
+
 
 Me parece que queda del lado de ustedes el experimentar un poco y armar todo el bloque como se observa en la imagen.
 
