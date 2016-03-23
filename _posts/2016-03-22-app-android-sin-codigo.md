@@ -53,7 +53,7 @@ Nos debe quedar algo como esto:
 
 Finalmente, en la esquina superior derecha tenemos la opción de cambiar nuestra vista "Designer" a "Blocks"
 
-Podemos ver que tenemos 4 segmentos de bloques, en el primero definimos unas variables y sus valores. Para ello utilizamos el apartado "Variables" y "Text" para construir los bloques del primer segmento que vemos en naranja y guinda.
+Podemos ver que tenemos 4 segmentos de bloques, en el primero definimos unas variables y sus valores. Para ello utilizamos el apartado "Variables" y "Text" para construir los bloques del primer segmento que vemos en naranja y guinda. En el "Consumer Key" y "Consumer Secret" van los valores que obtuvimos al dar de alta la app en el Twitter Application Management.
 
 ![Block](https://raw.githubusercontent.com/windoctor/windoctor.github.io/master/static/img/block_diagrams_twitter.png)
 
