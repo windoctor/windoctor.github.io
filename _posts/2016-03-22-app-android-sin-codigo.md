@@ -60,7 +60,7 @@ Podemos ver que tenemos 4 segmentos de bloques, en el primero definimos unas var
 
 Me parece que queda del lado de ustedes el experimentar un poco y armar todo el bloque como se observa en la imagen.
 
-Pueden ver el video que subí de la mini app funcionando en mi móvil.
+Pueden ver [aquí el video](https://www.youtube.com/watch?v=v3ycJsrSJf4) que subí de la mini app funcionando en mi móvil.
 
 La intención es meramente didáctica con el fin de despertar el interés de alguno de ustedes.
 
